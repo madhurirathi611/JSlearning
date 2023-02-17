@@ -15,7 +15,7 @@ var firstName="Mohit";
 var lastName="Sharma";
 var age=31;
 var address="Pune";
-var pincode=431048;
+var pincode=400048;
 var gender= "Male";
 var isMarried="Yes";
 console.log(firstName,lastName,age,address,pincode,gender,isMarried);
